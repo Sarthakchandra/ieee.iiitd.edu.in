@@ -2,21 +2,21 @@ representatives:
   - name: S. S. Jamuar
     role: Faculty Coordinator
   - name: Shobha Sundar Ram
-    role: Mentor
+    role: Faculty Mentor
   - name: Neelabhro Roy
     role: Mentor
   - name: Srijan Jain
     role: Chairperson
   - name: Aryan Taneja
     role: Vice Chairperson
-  - name: Gitansh Raj Satija
-    role: Vice Chairperson
   - name: Sarthak Chandra
+    role: Vice Chairperson
+  - name: Gitansh Raj Satija
     role: Secretary
-  - name: Saksham Gupta
-    role: Operations Head
   - name: Garvita Jain
     role: WIE Chairperson
+  - name: Saksham Gupta
+    role: Operations Head
 
 members:
   - Ansh Arora

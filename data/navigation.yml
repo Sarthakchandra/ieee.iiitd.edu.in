@@ -11,9 +11,9 @@
   link: /#events
   external: false
 
-- name: Gallery
-  link: /gallery.html
-  external: false
+# - name: Gallery
+#   link: /gallery.html
+#   external: false
 
 - name: Members
   link: /members.html
