@@ -4,7 +4,7 @@
   external: false
 
 - name: About us
-  link: /about.html
+  link: /#about-us
   external: false
 
 - name: Event
