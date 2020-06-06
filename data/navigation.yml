@@ -8,8 +8,8 @@
   external: false
 
 - name: Event
-  link: /#events
-  external: false
+  link: https://docs.google.com/document/d/1Zrbw_96-BQ9Pdky2Dd6M76E305jHMCyWq_0L8G-SAcc/edit?usp=sharing
+  external: true
 
 # - name: Gallery
 #   link: /gallery.html
@@ -24,5 +24,5 @@
   external: false
 
 - name: Sadda Hack '20
-  link: /#sadda-hack
+  link: https://saddahack.tech/
   external: true
