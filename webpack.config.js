@@ -54,8 +54,7 @@ module.exports = async (env, argv) => {
 			],
 			hot: true,
 			writeToDisk: true,
-			watchContentBase: true,
-			open: 'firefox'
+			watchContentBase: true
 		},
 		stats: 'errors-only',
 		entry: entryObj,

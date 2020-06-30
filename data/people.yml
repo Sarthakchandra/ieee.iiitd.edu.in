@@ -1,22 +1,72 @@
 representatives:
   - name: S. S. Jamuar
     role: Faculty Coordinator
+
   - name: Shobha Sundar Ram
     role: Head of Department, ECE
+
   - name: Neelabhro Roy
-    role: Mentor
+    role: Alumni Mentor
+
   - name: Srijan Jain
-    role: Chairperson
-  - name: Aryan Taneja
-    role: Vice Chairperson
+    role: Mentor / Club Co-ordinator
+
   - name: Sarthak Chandra
-    role: Vice Chairperson
+    role: IEEE Chairperson
+
+  - name: Aryan Taneja
+    role: IEEE CompSoc Chairperson / IEEE Vice-Chairperson / Club Co-ordinator
+
   - name: Gitansh Raj Satija
-    role: Secretary
+    role: IEEE Vice-Chair / Club Co-ordinator
+
+  - name: Saksham Gupta 
+    role: General Secretary / Club Co-ordinator
+
+  - name: Ira Aggarwal
+    role: IEEE IIIT-D WiE Chairperson
+
   - name: Garvita Jain
     role: WIE Chairperson
-  - name: Saksham Gupta
+
+  - name: Karishma Sinha
+    role: IEEE  IIIT-D WiE Vice Chair / Content Team Lead
+
+  - name: Meetakshi Setiya
+    role: IEEE IIIT-D WiE Vice Chair
+
+  - name: Rachita Saha 
+    role: IEEE  IIIT-D WiE Secretary
+
+  - name: Rohan Dhar 
+    role: IEEE IIIT-D CompSoc Vice Chair
+
+  - name: Piyush Sharma 
+    role: IEEE IIIT-D CompSoc Secretary
+
+  - name: Ansh Arora 
     role: Operations Head
+
+  - name: Shragvi Siddharth Jha 
+    role: Activities Coordinator
+
+  - name: Mihir Chaturvedi
+    role: WebDev Head
+
+  - name: Prakhar Prasad
+    role: Design Head
+
+  - name: Sudarshan Buxy 
+    role: Corporate Relations & Outreach Head
+
+  - name: Tathagat Pal
+    role: Senior Member, Design team
+
+  - name: Kishan Sinha 
+    role: Senior Member, Operations Team
+
+  - name: Samarth Saxena
+    role: Senior Member, Video Editing team
 
 members:
   - Ansh Arora
