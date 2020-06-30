@@ -36,11 +36,15 @@ html(lang="en")
 
 					h2 Executive Committee
 
-					ul
+					each year in people.alumni
 
-						each person in people.members
+						h3=year.year
 
-							li !{person}
+						ul
+
+							each person in year.members
+
+								li !{person}
 
 		//- Footer
 		+footer()

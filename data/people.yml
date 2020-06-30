@@ -26,9 +26,6 @@ representatives:
   - name: Ira Aggarwal
     role: IEEE IIIT-D WiE Chairperson
 
-  - name: Garvita Jain
-    role: WIE Chairperson
-
   - name: Karishma Sinha
     role: IEEE  IIIT-D WiE Vice Chair / Content Team Lead
 
@@ -68,20 +65,15 @@ representatives:
   - name: Samarth Saxena
     role: Senior Member, Video Editing team
 
-members:
-  - Ansh Arora
-  - Ira Aggarwal
-  - Kishan Sinha
-  - Kushagra Prasad
-  - Meetakshi Setiya
-  - Mihir Chaturvedi
-  - Piyush Sharma
-  - Pragya Sikka
-  - Prakhar Prasad
-  - Rachita Saha
-  - Rohan Dhar
-  - Shaney Waris
-  - Shragvi Siddharth Jha
-  - Sudarshan Buxy
-  - Tanupriya Das
-  - Varun Khurana
+alumni:
+  - year: 2019-2020
+    members:
+      - S. S. Jamuar
+      - Shobha Sundar Ram
+      - Neelabhro Roy
+      - Srijan Jain
+      - Aryan Taneja
+      - Sarthak Chandra
+      - Gitansh Raj Satija
+      - Garvita Jain
+      - Saksham Gupta
