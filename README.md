@@ -16,3 +16,4 @@ To create a new page: `node ./scripts/create-new-page <PAGE-NAME>`.
 ## License
 
 [MIT](LICENSE)
+
