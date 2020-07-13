@@ -1,69 +1,82 @@
 representatives:
-  - name: S. S. Jamuar
-    role: Faculty Coordinator
+  - heading: false
+    members:
+    - name: S. S. Jamuar
+      role: Faculty Coordinator
 
-  - name: Shobha Sundar Ram
-    role: Head of Department, ECE
+    - name: Shobha Sundar Ram
+      role: Head of Department, ECE
 
-  - name: Neelabhro Roy
-    role: Alumni Mentor
+    # - name: Rajiv Ratn Shah
+    #   role: somethign
 
-  - name: Srijan Jain
-    role: Mentor / Club Co-ordinator
+  - heading: IEEE
+    members:
+    - name: Neelabhro Roy
+      role: Alumni Mentor
 
-  - name: Sarthak Chandra
-    role: IEEE Chairperson
+    - name: Srijan Jain
+      role: Mentor / Club Co-ordinator
 
-  - name: Aryan Taneja
-    role: IEEE CompSoc Chairperson / IEEE Vice-Chairperson / Club Co-ordinator
+    - name: Sarthak Chandra
+      role: IEEE Chairperson
 
-  - name: Gitansh Raj Satija
-    role: IEEE Vice-Chair / Club Co-ordinator
+    - name: Aryan Taneja
+      role: IEEE CompSoc Chairperson / IEEE Vice-Chairperson / Club Co-ordinator
 
-  - name: Saksham Gupta 
-    role: General Secretary / Club Co-ordinator
+    - name: Gitansh Raj Satija
+      role: IEEE Vice-Chair / Club Co-ordinator
 
-  - name: Ansh Arora 
-    role: Operations Head
+    - name: Saksham Gupta 
+      role: General Secretary / Club Co-ordinator
 
-  - name: Shragvi Siddharth Jha 
-    role: Activities Coordinator
+    - name: Ansh Arora 
+      role: Operations Head
 
-  - name: Mihir Chaturvedi
-    role: WebDev Head
+    - name: Shragvi Siddharth Jha 
+      role: Activities Coordinator
 
-  - name: Prakhar Prasad
-    role: Design Head
+    - name: Mihir Chaturvedi
+      role: WebDev Head
 
-  - name: Sudarshan Buxy 
-    role: Corporate Relations & Outreach Head
+    - name: Prakhar Prasad
+      role: Design Head
 
-  - name: Ira Aggarwal
-    role: IEEE IIIT-D WiE Chairperson
+    - name: Sudarshan Buxy 
+      role: Corporate Relations & Outreach Head
 
-  - name: Karishma Sinha
-    role: IEEE  IIIT-D WiE Vice Chair / Content Team Lead
+  - heading: IEEE Women in Engineering
+    members:
+    - name: Ira Aggarwal
+      role: IEEE IIIT-D WiE Chairperson
 
-  - name: Meetakshi Setiya
-    role: IEEE IIIT-D WiE Vice Chair
+    - name: Karishma Sinha
+      role: IEEE  IIIT-D WiE Vice Chair / Content Team Lead
 
-  - name: Rachita Saha 
-    role: IEEE  IIIT-D WiE Secretary
+    - name: Meetakshi Setiya
+      role: IEEE IIIT-D WiE Vice Chair
 
-  - name: Rohan Dhar 
-    role: IEEE IIIT-D CompSoc Vice Chair
+    - name: Rachita Saha 
+      role: IEEE  IIIT-D WiE Secretary
 
-  - name: Piyush Sharma 
-    role: IEEE IIIT-D CompSoc Secretary
+  - heading: IEEE Computer Society
+    members:
+    - name: Rohan Dhar 
+      role: IEEE IIIT-D CompSoc Vice Chair
 
-  - name: Tathagat Pal
-    role: Senior Member, Design team
+    - name: Piyush Sharma 
+      role: IEEE IIIT-D CompSoc Secretary
 
-  - name: Kishan Sinha 
-    role: Senior Member, Operations Team
+  - heading: Senior Execom Members
+    members:
+    - name: Tathagat Pal
+      role: Senior Member, Design team
 
-  - name: Samarth Saxena
-    role: Senior Member, Video Editing team
+    - name: Kishan Sinha 
+      role: Senior Member, Operations Team
+
+    - name: Samarth Saxena
+      role: Senior Member, Video Editing team
 
 alumni:
   - year: 2019-2020

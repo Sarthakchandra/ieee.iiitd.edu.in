@@ -78,13 +78,18 @@ html(lang="en")
 
 					h1 IEEE IIIT Delhi Representatives
 
-					.gallery
+					.gallery-container
 
-						each person in people.representatives
-							.card
-								img(src="/assets/img/people/"+person.name.split(" ")[0].toLowerCase()+".jpg")
-								p.name !{person.name}
-								p.role !{person.role}
+						each section in people.representatives
+							if section.heading
+								h2=section.heading
+
+							.gallery
+								each person in section.members
+									.card
+										img(src="/assets/img/people/"+person.name.split(" ")[0].toLowerCase()+".jpg")
+										p.name !{person.name}
+										p.role !{person.role}
 
 			section#sadda-hack
 
