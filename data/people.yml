@@ -21,9 +21,6 @@ representatives:
     - name: Sarthak Chandra
       role: IEEE Chairperson
 
-    - name: Aryan Taneja
-      role: IEEE CompSoc Chairperson / IEEE Vice-Chairperson / Club Co-ordinator
-
     - name: Gitansh Raj Satija
       role: IEEE Vice-Chair / Club Co-ordinator
 
@@ -61,6 +58,9 @@ representatives:
 
   - heading: IEEE Computer Society
     members:
+    - name: Aryan Taneja
+      role: IEEE CompSoc Chairperson / IEEE Vice-Chairperson / Club Co-ordinator
+      
     - name: Rohan Dhar 
       role: IEEE IIIT-D CompSoc Vice Chair
 
