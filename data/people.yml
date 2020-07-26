@@ -13,7 +13,7 @@ representatives:
       role: Faculty Coordinator IEEE CompSoc
       slug: rajiv
 
-  - heading: IEEE
+  - heading: IEEE Core Team
     members:
     - name: Sarthak Chandra
       role: IEEE Chairperson
@@ -91,8 +91,8 @@ representatives:
 
   - heading: Alumni
     members:
-      - name: Munish Thakral
-        role: SDE @ Reliance Jio
+      - name: Neelabhro Roy
+        role: EECS @ KTH Royal Institute of Technology, Sweden
 
       - name: Osaid Rehman Nasir
         role: SDE @ LinkedIn
@@ -100,19 +100,24 @@ representatives:
       - name: Suryaansh Mata
         role: Associate Engineer @ Mathworks
 
+      - name: Munish Thakral
+        role: SDE @ Reliance Jio
+ 
       - name: Vaibhav Goel
         role: Incoming MTS @ Adobe
 
-      - name: Neelabhro Roy
-        role: EECS @ KTH Royal Institute of Technology, Sweden
 
 alumni:
   - year: 2019-2020
     members:
       - Neelabhro Roy
+      - Harsh Bandhey
       - Srijan Jain
       - Aryan Taneja
       - Sarthak Chandra
       - Gitansh Raj Satija
       - Garvita Jain
       - Saksham Gupta
+      - Ansh Arora
+      - Shragvi Sidharth Jha
+      - Sudarshan Buxy
