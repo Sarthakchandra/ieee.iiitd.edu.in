@@ -1,14 +1,17 @@
 representatives:
   - heading: false
     members:
-    - name: S. S. Jamuar
+    - name: Prof. S. S. Jamuar
       role: Faculty Coordinator
+      slug: s.
 
-    - name: Shobha Sundar Ram
+    - name: Dr. Shobha Sundar Ram
       role: Head of Department, ECE
+      slug: shobha
 
-    - name: Rajiv Ratn Shah
+    - name: Dr. Rajiv Ratn Shah
       role: Faculty Coordinator IEEE CompSoc
+      slug: rajiv
 
   - heading: IEEE
     members:
