@@ -1,10 +1,10 @@
 representatives:
   - heading: false
     members:
-    - name: Prof. S. S. Jamuar
+    - name: S. S. Jamuar
       role: Faculty Coordinator
 
-    - name: Dr. Shobha Sundar Ram
+    - name: Shobha Sundar Ram
       role: Head of Department, ECE
 
     # - name: Rajiv Ratn Shah
