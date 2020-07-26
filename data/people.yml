@@ -12,12 +12,6 @@ representatives:
 
   - heading: IEEE
     members:
-    - name: Neelabhro Roy
-      role: Alumni Mentor
-
-    - name: Srijan Jain
-      role: Mentor / Club Co-ordinator
-
     - name: Sarthak Chandra
       role: IEEE Chairperson
 
@@ -26,6 +20,12 @@ representatives:
 
     - name: Saksham Gupta 
       role: General Secretary / Club Co-ordinator
+      
+    - name: Srijan Jain
+      role: Mentor / Club Co-ordinator
+      
+    - name: Neelabhro Roy
+      role: Alumni Mentor
 
     - name: Ansh Arora 
       role: Operations Head
