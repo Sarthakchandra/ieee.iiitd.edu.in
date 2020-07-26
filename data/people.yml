@@ -23,21 +23,21 @@ representatives:
 
     - name: Saksham Gupta 
       role: General Secretary / Club Co-ordinator
-      
-    - name: Srijan Jain
-      role: Mentor / Club Co-ordinator
-      
+
     - name: Neelabhro Roy
       role: Alumni Mentor
+
+    - name: Srijan Jain
+      role: Mentor / Club Co-ordinator
 
     - name: Ansh Arora 
       role: Operations Head
 
-    - name: Mihir Chaturvedi
-      role: WebDev Head
-      
     - name: Shragvi Sidharth Jhu
       role: Activities Coordinator
+
+    - name: Mihir Chaturvedi
+      role: WebDev Head
 
     - name: Prakhar Prasad
       role: Design Head
