@@ -18,4 +18,4 @@ jobs:
         ftp-username: ieee@iiitd.edu.in
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: dist/
-        git-ftp-args: --insecure --changed-only
+        git-ftp-args: --insecure
