@@ -78,6 +78,23 @@ representatives:
     - name: Samarth Saxena
       role: Senior Member, Video Editing team
 
+  - heading: Alumni
+    members:
+      - name: Munish Thakral
+        role: SDE @ Reliance Jio
+
+      - name: Osaid Rehman Nasir
+        role: SDE @ LinkedIn
+
+      - name: Suryaansh Mata
+        role: Associate Engineer @ Mathworks
+
+      - name: Vaibhav Goel
+        role: Incoming MTS @ Adobe
+
+      - name: Neelabhro Roy
+        role: Information & Network Engineering @ KTH Royal Institute of Technology, Sweden
+
 alumni:
   - year: 2019-2020
     members:
