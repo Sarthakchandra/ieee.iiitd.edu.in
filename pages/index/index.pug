@@ -87,7 +87,7 @@ html(lang="en")
 							.gallery
 								each person in section.members
 									.card
-										img(src="/assets/img/people/"+(perons.slug || person.name.split(" ")[0].toLowerCase())+".jpg")
+										img(src="/assets/img/people/"+(person.slug || person.name.split(" ")[0].toLowerCase())+".jpg")
 										p.name !{person.name}
 										p.role !{person.role}
 
