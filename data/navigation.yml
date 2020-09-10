@@ -23,6 +23,6 @@
   link: /contact.html
   external: false
 
-- name: Elysium '20
-  link: http://elysium.iiitd.edu.in/
-  external: true
+# - name: Elysium '20
+#   link: http://elysium.iiitd.edu.in/
+#   external: true
