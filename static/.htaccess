@@ -1,1 +1,10 @@
+RewriteEngine On
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
+
 Redirect /events https://docs.google.com/document/d/1Zrbw_96-BQ9Pdky2Dd6M76E305jHMCyWq_0L8G-SAcc/edit?usp=sharing
