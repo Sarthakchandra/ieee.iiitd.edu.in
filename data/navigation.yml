@@ -12,15 +12,15 @@
   external: true
 
 # - name: Gallery
-#   link: /gallery.html
+#   link: /gallery
 #   external: false
 
 - name: Members
-  link: /members.html
+  link: /members
   external: false
 
 - name: Contact
-  link: /contact.html
+  link: /contact
   external: false
 
 # - name: Elysium '20
